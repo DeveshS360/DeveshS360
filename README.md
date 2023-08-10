@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devesh Sharma
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ReactJS 
+- 👀 Passionate UI Developer with rich 2+ years experience
+- 🌱 Skills: ReactJS, Typescript, HTML, CSS, Javascript, Redux, Material UI
 - 📫 How to reach me :-   Email:sharmadevesh360@gmail.com  
      LinkedIn: https://www.linkedin.com/in/devesh-sharma-992661180/
 
