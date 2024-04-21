@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devesh Sharma
-- 👀 Passionate UI Developer with rich 2.5 years of experience
+- 👀 Passionate UI Developer with rich 3 years of experience
 - 🌱 Skills: ReactJS, Typescript, HTML, CSS, Javascript, Redux, Material UI, NextJS
 - 📫 How to reach me :-   Email:sharmadevesh360@gmail.com  
      LinkedIn: https://www.linkedin.com/in/devesh-sharma-992661180/
